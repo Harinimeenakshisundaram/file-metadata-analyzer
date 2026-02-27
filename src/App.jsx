@@ -119,9 +119,9 @@ if (
 if (selectedFile.name.toLowerCase().endsWith(".txt")) {
   const metadata = await extractTxtMetadata(selectedFile);
   setTxtMeta(metadata);
-} 
 }
-    
+setLoading(false); 
+}  
     catch(error){
       console.error("Analysis failed:", error);
       setErrorMessage("File analysis failed.");
