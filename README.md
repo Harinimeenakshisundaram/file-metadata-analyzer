@@ -106,12 +106,5 @@ Academic Context
 This project was developed as part of the postgraduate semester requirements in Forensic Science and Criminology. 
 The objective was to design and implement a functional metadata analysis system aligned with digital forensic principles, focusing on integrity verification and structured data interpretation.
 
-Future Enhancements
-
-1. Integration of backend server for structured data management
-2. secure database storage for metadata record retention
-3. To audit logging
-4. Advanced anomaly detection algorithms for metadata inconsistencies
-5. Automated report generation
 6. To make it support multiple file types
 7. Interactive map for multiple file types whenever GPS data found in the structured metadata of these files.
